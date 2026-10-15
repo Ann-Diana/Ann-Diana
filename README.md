@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://openai.com/daybreak/" title="OpenAI Daybreak Access for authorized cybersecurity work">
+    <img src="https://img.shields.io/badge/Cybersecurity-Daybreak%20Access-64e8c1?style=for-the-badge&amp;labelColor=0d1117" alt="Cybersecurity · Daybreak Access">
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-reduced-motion: reduce) and (min-width: 651px)" srcset="./ann-diana-profile-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./ann-diana-profile-static-mobile.svg">
